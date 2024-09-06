@@ -36,14 +36,6 @@
 
 [![Top Languages](https://github-readme-stats-fork-amber.vercel.app/api/top-langs/?username=BDKX16&layout=compact&langs_count=6)](https://github.com/BDKX16)
 
-## 🚀 Featured projects
-
-[![TiempoActual Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=smartbalance)](https://github.com/BDKX16/smartbalance)
-
-[![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=confi-presentacion)](https://github.com/BDKX16//confi-presentacion)
-
-[![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=LandingConfi)](https://github.com/BDKX16/LandingConfi)
-
 ## ✨ ConfiPlant project
 
 <img src="uploads/mobile-confi.png" alt="Wiset ios" width="500px">
