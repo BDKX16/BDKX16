@@ -9,9 +9,7 @@
 
 <p><em>Desarrollador en <a href="https://producthackers.com/es/?utm_source=mail&utm_medium=gmail&utm_campaign=firma&utm_term=leandro">Softtek</a></em><p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Gartner-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/BDKX16/)](https://www.linkedin.com/in/BDKX16/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gartner_leandro?style=social)](https://twitter.com/gartner_leandro)
-[![GitHub Followers](https://img.shields.io/github/followers/BDKX16?label=Follow&style=social)](https://github.com/BDKX16/?tab=followers)
+[![Linkedin Badge](https://img.shields.io/badge/-Xavier%20Galarreta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/xavier-galarreta-52a076212)](https://www.linkedin.com/in/xavier-galarreta-52a076212)
 
 ![GitHub Stats](https://github-readme-stats-fork-amber.vercel.app/api?username=BDKX16&show_icons=true)
 
@@ -26,13 +24,12 @@
 🐶 &nbsp; &nbsp; Me gustan los animales y adoro pasar tiempo con mi perra Luna.
 
 <details>
-  <summary>Más sobre mi perra</summary>&nbsp;
+<summary>Más sobre mi perra</summary>&nbsp;
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="250px">&nbsp;
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1">&nbsp;
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2"  width="250px">&nbsp;
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2">&nbsp;
-
-  <img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna3.jpg" alt="Luna3">
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna3.jpg" alt="Luna3"  width="250px">
 </details>
 
 &nbsp;
@@ -48,3 +45,7 @@
 [![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=simple-signup)](https://github.com/BDKX16//simple-signup)
 
 [![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=tasklist)](https://github.com/BDKX16/tasklist)
+
+## ✨ ConfiPlant project
+
+<img src="uploads/mobile-confi.png" alt="Wiset ios" width="250px">
