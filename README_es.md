@@ -17,13 +17,13 @@
 
 ## 🤖 Sobre mi
 
-🛠️ &nbsp; &nbsp; Llevo programando desde 2015 con más de 6 años de experiencia en desarrollo de software para empresas.\
-✈️ &nbsp; &nbsp; Nací en Argentina pero actualmente resido en Mallorca, España.\
-📱 &nbsp; &nbsp; Tengo pasión por el desarrollo de aplicaciones móviles y siempre estoy buscando nuevos retos.\
-🏠 &nbsp; &nbsp; Soy un gran fan del IOT y me encanta hacer mi casa más inteligente cada día.\
-📝 &nbsp; &nbsp; A veces escribo blogs técnicos y artículos en mi página [web](https://BDKX16.es).\
-⭐️ &nbsp; &nbsp; En mi tiempo libre trabajo en uno de mis proyectos personales llamado Wiset, puedes verlo [aquí](https://wiset.es/).\
-🐶 &nbsp; &nbsp; Me gustan los animales y adoro pasar tiempo con mis perros.
+🛠️ &nbsp; &nbsp; Llevo programando desde 2019 con más de 3 años de experiencia en desarrollo de software para empresas.\
+✈️ &nbsp; &nbsp; Nací en Argentina y actualmente vivo en Mar del Plata, provincia de Buenos Aires.\
+📱 &nbsp; &nbsp; Tengo pasión por el desarrollo de aplicaciones y siempre estoy buscando nuevos retos.\
+🏠 &nbsp; &nbsp; Soy un gran fan del IOT y con ello me encanta hacer la vida mas facil cada día .\
+📝 &nbsp; &nbsp; Sometimes I add new updates on my [Greenhouse app](https://confiplant.online).\
+⭐️ &nbsp; &nbsp; En mi tiempo libre trabajo en un proyecto personal llamada ConfiPlant, podes verlo [aqui](https://play.google.com/store/apps/details?id=com.xavigmp.confiplant&hl=en_US).\
+🐶 &nbsp; &nbsp; Me gustan los animales y adoro pasar tiempo con mi perra Luna.
 
 <details>
   <summary>Más sobre mi perra</summary>&nbsp;
@@ -48,8 +48,3 @@
 [![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=simple-signup)](https://github.com/BDKX16//simple-signup)
 
 [![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=tasklist)](https://github.com/BDKX16/tasklist)
-
-## ✨ Proyecto Wiset
-
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/wiset-ios.png" alt="Wiset ios" width="250px">
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/wiset-android.png" alt="Wiset android" width="250px">

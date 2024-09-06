@@ -1,4 +1,4 @@
-## Hi there, I'm Leandro 👋🏼
+## Hi there, I'm Xavier 👋🏼
 
 <table align="right">
  <tr><td><a href="README.md"><img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/us-flag.png?raw=true" height="13"> English</a></td></tr>
@@ -48,8 +48,3 @@
 [![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=simple-signup)](https://github.com/BDKX16//simple-signup)
 
 [![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=tasklist)](https://github.com/BDKX16/tasklist)
-
-## ✨ Wiset project
-
-<img src="uploads/wiset-ios.png" alt="Wiset ios" width="250px">
-<img src="uploads/wiset-android.png" alt="Wiset android" width="250px">
