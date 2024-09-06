@@ -19,16 +19,16 @@
 ✈️ &nbsp; &nbsp; Born in Argentina, currently living in Mar del Plata, Buenos Aires.\
 📱 &nbsp; &nbsp; I have a passion for web development and I'm always looking for new challenges.\
 🏠 &nbsp; &nbsp; I'm a big fan of IOT and I love to make life easier every day.\
-📝 &nbsp; &nbsp; Sometimes I add new updates on my [Greenhouse app](https://confiplant.online).\
+📝 &nbsp; &nbsp; Sometimes I add new updates on my [Greenhouse app](https://confiplant.cloud).\
 ⭐️ &nbsp; &nbsp; In my free time I work on my personal project called ConfiPlant, you can check it out [here](https://play.google.com/store/apps/details?id=com.xavigmp.confiplant&hl=en_US).\
 🐶 &nbsp; &nbsp; I love to spending time with my dog Luna.
 
 <details>
 <summary>MMore about my dog</summary>&nbsp;
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="250px">&nbsp;
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="250px">
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2"  width="250px">&nbsp;
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2"  width="250px">
 
 <img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna3.jpg" alt="Luna3"  width="250px">
 </details>
@@ -41,12 +41,12 @@
 
 ## 🚀 Featured projects
 
-[![TiempoActual Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=tiempoactual)](https://github.com/BDKX16/tiempoactual)
+[![TiempoActual Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=smartbalance)](https://github.com/BDKX16/smartbalance)
 
-[![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=simple-signup)](https://github.com/BDKX16//simple-signup)
+[![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=confi-presentacion)](https://github.com/BDKX16//confi-presentacion)
 
-[![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=tasklist)](https://github.com/BDKX16/tasklist)
+[![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=BDKX16&repo=LandingConfi)](https://github.com/BDKX16/LandingConfi)
 
 ## ✨ ConfiPlant project
 
-<img src="uploads/mobile-confi.png" alt="Wiset ios" width="250px">
+<img src="uploads/mobile-confi.png" alt="Wiset ios" width="500px">
