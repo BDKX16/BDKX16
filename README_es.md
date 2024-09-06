@@ -5,8 +5,6 @@
  <tr><td><a href="README_es.md"><img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/es-flag.png?raw=true" height="13"> Español</a></td></tr>
 </table>
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/animoji.png?raw=true" width="230">
-
 <p><em>Desarrollador en <a href="https://producthackers.com/es/?utm_source=mail&utm_medium=gmail&utm_campaign=firma&utm_term=leandro">Softtek</a></em><p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Xavier%20Galarreta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/xavier-galarreta-52a076212)](https://www.linkedin.com/in/xavier-galarreta-52a076212)
