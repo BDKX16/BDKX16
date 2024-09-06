@@ -22,9 +22,9 @@
 🐶 &nbsp; &nbsp; I love to spending time with my dog Luna.
 
 <details>
-<summary>MMore about my dog</summary>&nbsp;
+<summary>More about my dog</summary>&nbsp;
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="250px">
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="200px">
 
 <img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2"  width="250px">
 
