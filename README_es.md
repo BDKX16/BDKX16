@@ -23,11 +23,11 @@
 
 <details>
 <summary>Más sobre mi perra</summary>&nbsp;
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="200px">
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna1.jpg" alt="Luna1"  width="180px">
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2"  width="250px">
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna2.jpg" alt="Luna2"  width="260px">
 
-<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna3.jpg" alt="Luna3"  width="250px">
+<img src="https://github.com/BDKX16/BDKX16/blob/main/uploads/luna3.jpg" alt="Luna3"  width="260px">
 </details>
 
 &nbsp;
