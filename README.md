@@ -39,4 +39,8 @@
 
 ## ✨ StudySphere project
 
-<img src="uploads/studysphere.jpg" alt="Wiset ios" width="500px">
+<img src="uploads/studysphere.jpg" alt="ss" width="500px">
+
+## ✨ Confi project
+
+<img src="uploads/confi.jpg" alt="Confi iot" width="500px">
