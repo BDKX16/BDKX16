@@ -13,7 +13,7 @@
 
 ## 🤖 Sobre mi
 
-🛠️ &nbsp; &nbsp; Llevo programando desde 2017 con más de 3 años de experiencia en desarrollo de software para empresas.\
+🛠️ &nbsp; &nbsp; Llevo programando desde 2017 con más de 4 años de experiencia en desarrollo de software para empresas.\
 ✈️ &nbsp; &nbsp; Nací en Argentina y actualmente vivo en Mar del Plata, provincia de Buenos Aires.\
 📱 &nbsp; &nbsp; Tengo pasión por el desarrollo de aplicaciones y siempre estoy buscando nuevos retos.\
 🏠 &nbsp; &nbsp; Soy un gran fan del IOT y con ello me encanta hacer la vida mas facil cada día .\
@@ -38,4 +38,4 @@
 
 ## ✨ ConfiPlant project
 
-<img src="uploads/mobile-confi.png" alt="Wiset ios" width="500px">
+<img src="uploads/studysphere.jpg" alt="Wiset ios" width="500px">

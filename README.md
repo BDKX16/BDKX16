@@ -13,7 +13,7 @@
 
 ## 🤖 About me
 
-🛠️ &nbsp; &nbsp; Coding since 2017 with 3+ years of experience in enterprise wide software development.\
+🛠️ &nbsp; &nbsp; Coding since 2017 with 4+ years of experience in enterprise wide software development.\
 ✈️ &nbsp; &nbsp; Born in Argentina, currently living in Mar del Plata, Buenos Aires.\
 📱 &nbsp; &nbsp; I have a passion for web development and I'm always looking for new challenges.\
 🏠 &nbsp; &nbsp; I'm a big fan of IOT and I love to make life easier every day.\
@@ -37,6 +37,6 @@
 
 [![Top Languages](https://github-readme-stats-fork-amber.vercel.app/api/top-langs/?username=BDKX16&layout=compact&langs_count=6)](https://github.com/BDKX16)
 
-## ✨ ConfiPlant project
+## ✨ StudySphere project
 
-<img src="uploads/mobile-confi.png" alt="Wiset ios" width="500px">
+<img src="uploads/studysphere.jpg" alt="Wiset ios" width="500px">
